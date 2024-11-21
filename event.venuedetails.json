@@ -1,0 +1,1116 @@
+[{
+  "_id": {
+    "$oid": "64577e969149e29afec22593"
+  },
+  "org_name": "Hotel Amrutha Castle",
+  "location": "Saifabad, Hyderabad",
+  "max_capacity": 800,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 550,
+    "non_veg": 650
+  },
+  "contact": "9856738760",
+  "rent": "95,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 10,
+      "acRooms": 8
+    },
+    "parkingSpace": {
+      "bikeParking": 50,
+      "carParking": 80,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577f399149e29afec22596"
+  },
+  "org_name": "Blue Tree",
+  "location": "Nagole, Hyderabad",
+  "max_capacity": 2000,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 350,
+    "non_veg": 450
+  },
+  "contact": "9456738760",
+  "rent": "80,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 10,
+      "acRooms": 5
+    },
+    "parkingSpace": {
+      "bikeParking": 50,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577f709149e29afec22597"
+  },
+  "org_name": "Park Hyatt",
+  "location": "Banjara, Hyderabad",
+  "max_capacity": 350,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 2000,
+    "non_veg": 2300
+  },
+  "img": [
+    {
+      "img": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2017/05/02/1718/Park-Hyatt-Hyderabad-P038-Hotel-Exterior.jpg/Park-Hyatt-Hyderabad-P038-Hotel-Exterior.16x9.jpg?imwidth=1280"
+    },
+    {
+      "img": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2016/09/16/1222/Park-Hyatt-Hyderabad-P237-Park-Room.jpg/Park-Hyatt-Hyderabad-P237-Park-Room.16x9.jpg?imwidth=1280"
+    },
+    {
+      "img": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2018/10/16/1353/Park-Hyatt-Hyderabad-P296-Rika-Seating.jpg/Park-Hyatt-Hyderabad-P296-Rika-Seating.16x9.jpg?imwidth=1280"
+    },
+    {
+      "img": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2016/09/16/1214/Park-Hyatt-Hyderabad-P209-Cabana-and-Pool-View.jpg/Park-Hyatt-Hyderabad-P209-Cabana-and-Pool-View.16x9.jpg?imwidth=1280"
+    },
+    {
+      "img": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2017/05/02/1718/Park-Hyatt-Hyderabad-P041-Ballroom.jpg/Park-Hyatt-Hyderabad-P041-Ballroom.16x9.jpg?imwidth=1280"
+    }
+  ],
+  "rent": "2,00,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "paymentAndBooking": {
+      "advance": "100%",
+      "paymentAfterEvent": "0%"
+    },
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "Yes",
+    "roomsAvailable": {
+      "guestRooms": 201,
+      "acRooms": 200
+    },
+    "parkingSpace": {
+      "bikeParking": 0,
+      "carParking": 100,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "reviews": [
+    "I recently hosted my daughter's wedding at the Park Hyatt Palace and I cannot express how wonderful our experience was. The staff went above and beyond to ensure that every detail was perfect and the event space was absolutely breathtaking. We received so many compliments from our guests and I couldn't be happier with how everything turned out. I would highly recommend the Park Hyatt Palace for any special event!",
+    "I hosted a corporate event at the Park Hyatt Palace and was blown away by the level of professionalism and attention to detail from the staff. They were incredibly accommodating and made sure that everything ran smoothly from start to finish. The event space was also top-notch, with beautiful decor and all the necessary amenities. I would definitely host another event at the Park Hyatt Palace in the future.",
+    "I recently attended a wedding at the Park Hyatt Palace and was amazed by the level of luxury and sophistication. The event space was stunning, with elegant decor and plenty of room for guests to socialize and dance. The food was also delicious, and the staff was attentive and friendly throughout the entire event. I would highly recommend the Park Hyatt Palace for any special occasion.",
+    "I hosted a charity gala at the Park Hyatt Palace and was blown away by the level of service and support from the staff. They were incredibly accommodating and helped me to plan every detail of the event, from the menu to the seating arrangements. The event space was also stunning, with beautiful views and plenty of room for our guests. I would definitely recommend the Park Hyatt Palace for any charity event or fundraiser."
+  ],
+  "interestedUsers": [
+    {
+      "username": "",
+      "mobileno": ""
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "8888888888"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "645785939149e29afec2259f"
+  },
+  "org_name": "M Grand Banquet Hall",
+  "location": "Vanasthalipuram, Hyderabad",
+  "max_capacity": 2000,
+  "rating": "3",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 550,
+    "non_veg": 650
+  },
+  "contact": "7656738755",
+  "rent": "95,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 5
+    },
+    "parkingSpace": {
+      "bikeParking": 20,
+      "carParking": 50,
+      "valetParkingAvailable": "No"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/324/475/new_large/ss20230327-4312-16ql72r.jpg?1679922789"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/320/486/new_large/ss20230327-4312-1sj9g1f.jpg?1679922428"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/002/new_large/ss20230327-4312-1tw5j3m.jpg?1679923217"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/321/173/new_large/ss20230327-4312-ql5g0i.jpg?1679922487v"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577db09149e29afec22590"
+  },
+  "org_name": "JRC Conventions",
+  "location": "Jubliee hills, Hyderabad",
+  "max_capacity": 200,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 400,
+    "non_veg": 750
+  },
+  "img": [
+    {
+      "img": "https://www.jrcconventions.com/images/slides/slide2.png"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://www.jrcconventions.com/images/slides/slide5.png"
+    }
+  ],
+  "rent": "1,25,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "outsideDecorationAllowed": "Yes",
+    "roomsAvailable": {
+      "guestRooms": 6,
+      "acRooms": 6
+    },
+    "parkingSpace": {
+      "bikeParking": 200,
+      "carParking": 800,
+      "valetParkingAvailable": "Yes"
+    },
+    "contact": "9970556890",
+    "paymentAndBooking": {
+      "advance": "40%",
+      "paymentAfterEvent": "60%"
+    }
+  },
+  "reviews": [
+    "I recently hosted a conference at the JRC Convention and was extremely impressed with the venue. The staff was friendly, professional, and attentive to our every need. The event space was perfect for our needs, with ample seating and excellent audiovisual equipment. Overall, I highly recommend the JRC Convention for any business or corporate event.",
+    "I hosted a wedding reception at the JRC Convention and was blown away by the level of service and attention to detail. The staff worked closely with me to ensure that every aspect of the event was exactly as I envisioned it, from the decor to the menu. The event space itself was also beautiful, with plenty of room for guests to socialize and dance. I would highly recommend the JRC Convention for any special occasion.",
+    "I recently attended a trade show at the JRC Convention and was very impressed with the venue. The event space was spacious and well-lit, with plenty of room for exhibitors and attendees. The staff was also very helpful, providing assistance with setup and logistics throughout the event. Overall, I would definitely recommend the JRC Convention for any trade show or convention.",
+    "I hosted a charity fundraiser at the JRC Convention and was thrilled with the experience. The staff was incredibly helpful and accommodating, providing support with everything from catering to logistics. The event space was also very impressive, with ample room for our guests and a beautiful atmosphere. I would highly recommend the JRC Convention for any charity event or fundraiser."
+  ],
+  "interestedUsers": [
+    {
+      "username": "mon",
+      "mobileno": "+1897554567689"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "charan",
+      "mobileno": "9550501861"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    },
+    {
+      "username": "nagaraj",
+      "mobileno": "9948440911"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64577e4f9149e29afec22592"
+  },
+  "org_name": "Moksh Banquets",
+  "location": "Necklace Road, Hyderabad",
+  "max_capacity": 700,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 600,
+    "non_veg": 700
+  },
+  "img": [
+    {
+      "img": "https://www.mokshbanquets.com/wp-content/uploads/2016/03/2UT-79-Copy-400x267.jpg"
+    },
+    {
+      "img": "https://www.mokshbanquets.com/wp-content/uploads/2016/03/MTR-24-400x267.jpg"
+    },
+    {
+      "img": "https://www.mokshbanquets.com/wp-content/uploads/2016/03/2UT-182-400x267.jpg"
+    },
+    {
+      "img": "https://www.mokshbanquets.com/wp-content/uploads/2016/03/MTR-13-400x267.jpg"
+    },
+    {
+      "img": "https://www.mokshbanquets.com/wp-content/uploads/2019/03/7a-400x267.jpg"
+    }
+  ],
+  "contact": "9856738960",
+  "rent": "80,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 2,
+      "acRooms": 2
+    },
+    "parkingSpace": {
+      "bikeParking": 100,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    },
+    "paymentAndBooking": {
+      "advance": "20%",
+      "paymentAfterEvent": "80%"
+    }
+  },
+  "reviews": [
+    "I recently hosted a baby shower at Moksh Banquets and was blown away by the level of hospitality and service from the staff. They helped me plan every aspect of the event and made sure that all of my guests were comfortable and well-fed. The event space was also lovely, with beautiful decor and plenty of natural light. I would highly recommend Moksh Banquets for any baby shower or special occasion.",
+    "I hosted a corporate event at Moksh Banquets and was impressed with the level of service and support from the staff. They were attentive to every detail and made sure that everything ran smoothly. The event space was also beautiful, with plenty of room for our guests to socialize and network. I would definitely recommend Moksh Banquets for any corporate event.",
+    "I recently attended a wedding at Moksh Banquets and was impressed with the level of professionalism and attention to detail from the staff. The event space was spacious and well-decorated, and the food was delicious. The staff made sure that all the guests were comfortable and had everything they needed. I would definitely recommend Moksh Banquets for any wedding or special event.",
+    "I recently hosted my daughter's sweet 16 at Moksh Banquets and the experience was fantastic. The staff was extremely helpful and accommodating, and the venue itself was beautiful. They went above and beyond to make sure every detail was perfect and our guests had a wonderful time. I would highly recommend Moksh Banquets for any special occasion."
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "6457851b9149e29afec2259d"
+  },
+  "org_name": "Spicy Hub",
+  "location": "Kothapet, Hyderabad",
+  "max_capacity": 700,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 400,
+    "non_veg": 500
+  },
+  "contact": "9056738755",
+  "rent": "90,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 5
+    },
+    "parkingSpace": {
+      "bikeParking": 20,
+      "carParking": 30,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577fce9149e29afec22598"
+  },
+  "org_name": "Taj Deccan",
+  "location": "Banjara Hills, Hyderabad",
+  "max_capacity": 2000,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 2000,
+    "non_veg": 2500
+  },
+  "img": [
+    {
+      "img": "https://www.tajhotels.com/content/dam/vivanta/hotels/VBT-Taj_Deccan_Hyderabad/images/gallery/Facade_3x2.png/jcr:content/renditions/cq5dam.web.323.323.png"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/vivanta/hotels/VBT-Taj_Deccan_Hyderabad/images/gallery/Interior_3x2.png"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/vivanta/hotels/VBT-Taj_Deccan_Hyderabad/images/Feast/Spice_Junxion%282%29_4x3.jpg/jcr:content/renditions/cq5dam.web.323.323.jpeg"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/vivanta/hotels/VBT-Taj_Deccan_Hyderabad/images/Meet_Celebrate/Kohinoor_Banquet_hall_3x2.jpg/jcr:content/renditions/cq5dam.web.323.323.jpeg"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/vivanta/hotels/VBT-Taj_Deccan_Hyderabad/images/Meet_Celebrate/Synergy_Banquet_hall_1_3x2.jpg/jcr:content/renditions/cq5dam.web.323.323.jpeg"
+    }
+  ],
+  "rent": "Please contact for pricing",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "paymentAndBooking": {
+      "advance": "25%",
+      "paymentAfterEvent": "75%"
+    },
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Outside Alcohol allowed",
+    "outsideDecorationAllowed": "Yes",
+    "roomsAvailable": {
+      "guestRooms": 141,
+      "acRooms": 141
+    },
+    "parkingSpace": {
+      "bikeParking": 150,
+      "carParking": 150,
+      "valetParkingAvailable": "\"Yes\""
+    }
+  },
+  "contact": "9550876540",
+  "reviews": [
+    "I recently hosted a milestone birthday celebration at the Taj Deccan and it was an absolute dream. The event space was beautifully decorated and the staff went above and beyond to make sure that everything was perfect. The food was delicious and the cocktails were expertly crafted. Our guests had an amazing time and we couldn't have asked for a better venue. I highly recommend the Taj Deccan for any special occasion.",
+    "I recently attended a corporate event at the Taj Deccan and was impressed by the level of professionalism and attention to detail from the staff. The event space was spacious and well-appointed, with all the necessary amenities. The catering was also top-notch, with a wide variety of delicious dishes to choose from. I would definitely recommend the Taj Deccan for any business event.",
+    "I recently hosted my daughter's engagement party at the Taj Deccan and it was a truly magical evening. The event space was beautifully decorated and the staff was incredibly accommodating, ensuring that every detail was taken care of. The food was delicious and the bartenders made some of the best cocktails we've ever had. Our guests were raving about the party for weeks afterwards. I would highly recommend the Taj Deccan for any special event.",
+    "I recently attended a wedding at the Taj Deccan and it was one of the most beautiful weddings I've ever been to. The event space was stunning, with beautiful decor and a breathtaking view. The staff was attentive and friendly, ensuring that everything ran smoothly throughout the event. The food was also delicious, with a wide variety of options to choose from. I would highly recommend the Taj Deccan for any wedding or special occasion."
+  ],
+  "interestedUsers": [
+    {
+      "username": "Uday",
+      "mobileno": "7890665544"
+    },
+    {
+      "username": "Maverik",
+      "mobileno": "9956789999"
+    },
+    {
+      "username": "Maverik",
+      "mobileno": "9956789999"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64577ec19149e29afec22594"
+  },
+  "org_name": "Hotel Minvera Grand",
+  "location": "Secunderabad, Hyderabad",
+  "max_capacity": 800,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 500,
+    "non_veg": 550
+  },
+  "img": [
+    {
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/16185700.jpg?k=8819d1350b2e822f76ce012160889b03d3435c678a45e728e6bfd8bd900e2536&o=&hp=1"
+    }
+  ],
+  "rent": "90,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "outsideDecorationAllowed": "Yes",
+    "roomsAvailable": {
+      "guestRooms": 6,
+      "acRooms": 6
+    },
+    "parkingSpace": {
+      "bikeParking": 200,
+      "carParking": 800,
+      "valetParkingAvailable": "No"
+    },
+    "payementAndBooking": {
+      "advance": "30%",
+      "paymentAfterEvent": "70%"
+    }
+  },
+  "contact": "9475037763",
+  "reviews": [
+    "I recently attended a friend's birthday party at the Hotel Minerva Grand and was impressed by the level of service and attention to detail. The event space was beautifully decorated and the food was delicious. The staff was also incredibly friendly and made sure that everyone had a great time. I would definitely recommend the Hotel Minerva Grand for any kind of celebration",
+    "I had my wedding reception at the Hotel Minerva Grand and it was absolutely perfect. The staff was so helpful and made sure that everything went smoothly, from the decorations to the food. The event space was gorgeous and exceeded my expectations. All of our guests had a wonderful time and we couldn't have asked for a better venue.",
+    "I recently hosted a business conference at the Hotel Minerva Grand and was thoroughly impressed with the experience. The staff was incredibly helpful and accommodating, and the event space was perfect for our needs. The audiovisual equipment was top-notch, and the catering exceeded our expectations. I would definitely recommend the Hotel Minerva Grand for any professional event",
+    "I hosted a charity auction at the Hotel Minerva Grand and was thrilled with the level of support and professionalism from the staff. They were able to provide everything we needed, from audiovisual equipment to catering, and the event space was perfect for our needs. The location was also convenient for our guests and the hotel helped us promote the event to a wider audience. I would definitely recommend the Hotel Minerva Grand for any fundraising event."
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577e0c9149e29afec22591"
+  },
+  "org_name": "Tabla Banquets",
+  "location": "Attapur, Hyderabad",
+  "max_capacity": 300,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 599,
+    "non_veg": 699
+  },
+  "contact": "9856738960",
+  "rent": "85,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 5
+    },
+    "parkingSpace": {
+      "bikeParking": 50,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/675/new_large/ss20230327-4312-379xw5.jpg?1679923163"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/855/new_large/ss20230327-4312-1u5tp95.jpg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/319/769/new_large/ss20230327-4312-duls9u.jpg?1679922387"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/203/new_medium/ss20230327-20300-1p7w57s.jpg?1679921932"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/619/new_large/ss20230327-4312-9f08o6.png?1679923158"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "645784579149e29afec2259a"
+  },
+  "org_name": "Hotel Kinara Grand",
+  "location": "LB Nagar, Hyderabad",
+  "max_capacity": 750,
+  "rating": "3",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 500,
+    "non_veg": 650
+  },
+  "contact": "8956738755",
+  "rent": "70,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 3
+    },
+    "parkingSpace": {
+      "bikeParking": 50,
+      "carParking": 20,
+      "valetParkingAvailable": "No"
+    }
+  },
+  "img": [
+    {
+      "img": " https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "64577d0d9149e29afec2258f"
+  },
+  "org_name": "GMR Convention Centre",
+  "location": "Patancheru, Hyderabad",
+  "max_capacity": 300,
+  "rating": "4.5",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 500,
+    "non_veg": 700
+  },
+  "contact": "9856738960",
+  "rent": "80,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 2,
+      "acRooms": 2
+    },
+    "parkingSpace": {
+      "bikeParking": 100,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/321/134/new_large/ss20230327-4312-ok6ch7.jpg?1679922507"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/321/173/new_large/ss20230327-4312-ql5g0i.jpg?1679922487"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/320/486/new_large/ss20230327-4312-1sj9g1f.jpg?1679922428"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/002/new_large/ss20230327-4312-1tw5j3m.jpg?1679923217"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/324/475/new_large/ss20230327-4312-16ql72r.jpg?1679922789"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "645785e59149e29afec225a0"
+  },
+  "org_name": "Taj Falaknuma Palace",
+  "location": "Falaknuma, Hyderabad",
+  "max_capacity": 2500,
+  "rating": "5",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 4000,
+    "non_veg": 5000
+  },
+  "rent": "Please contact for pricing",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 2,
+      "acRooms": 2
+    },
+    "parkingSpace": {
+      "bikeParking": 100,
+      "carParking": 50,
+      "valetParkingAvailable": "No"
+    },
+    "paymentAndBooking": {
+      "advance": "25%",
+      "paymentAfterEvent": "75%"
+    },
+    "alcoholPolicy": "Alcohol consumption is allowed but outside Alcohol not allowed",
+    "djPolicy": "Not Allowed"
+  },
+  "contact": "9948764011",
+  "reviews": [
+    "I recently hosted my daughter's wedding at the Taj Falaknuma Palace and it was an absolute dream come true. The palace itself is stunning, with breathtaking views and luxurious amenities. The staff was incredibly attentive and went above and beyond to ensure that every detail was perfect. Our guests were blown away by the beauty of the venue and we received countless compliments on the food and service. I would highly recommend the Taj Falaknuma Palace for any special occasion.",
+    "I had the pleasure of attending a corporate event at the Taj Falaknuma Palace and was blown away by the grandeur and opulence of the venue. The event space was spacious and well-equipped, and the staff was incredibly professional and accommodating. The food was delicious and the service was impeccable. I would definitely recommend the Taj Falaknuma Palace for any corporate event or conference.",
+    "I recently attended a friend's wedding at the Taj Falaknuma Palace and it was one of the most memorable events I've ever been to. The palace itself is absolutely stunning, with beautiful architecture and lavish decor. The staff was incredibly friendly and attentive, and the food was delicious. The wedding ceremony and reception were held in different parts of the palace, each with its own unique charm. I would highly recommend the Taj Falaknuma Palace for any special occasion.",
+    "I hosted a charity gala at the Taj Falaknuma Palace and was blown away by the level of service and support from the staff. They were incredibly accommodating and helped me to plan every detail of the event, from the decor to the menu. The palace itself is breathtaking, with stunning views and luxurious amenities. Our guests were amazed by the beauty of the venue and we raised a significant amount of money for our cause. I would definitely recommend the Taj Falaknuma Palace for any charity event or fundraiser."
+  ],
+  "img": [
+    {
+      "img": "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Falaknuma_Palace/images/gallery/SE_101dining2-3x2.jpg/_jcr_content/renditions/cq5dam.web.756.756.jpeg"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Falaknuma_Palace/images/gallery/SE_exteriornight2-3x2.jpg/_jcr_content/renditions/cq5dam.web.756.756.jpeg"
+    },
+    {
+      "img": "https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Falaknuma_Palace/images/gallery/AAG_Pool_3x2.jpg/_jcr_content/renditions/cq5dam.web.756.756.jpeg"
+    }
+  ],
+  "interestedUsers": [
+    {
+      "username": "bhai",
+      "mobileno": "999999999"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "999999999"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "999999999"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "999999999"
+    },
+    {
+      "username": "bhai",
+      "mobileno": "999999999"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "645780489149e29afec22599"
+  },
+  "org_name": "Sitara Grand",
+  "location": "LB Nagar, Hyderabad",
+  "max_capacity": 1000,
+  "rating": "4",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 400,
+    "non_veg": 550
+  },
+  "contact": "9456738755",
+  "rent": "1,00,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 20,
+      "acRooms": 15
+    },
+    "parkingSpace": {
+      "bikeParking": 100,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "645784e19149e29afec2259c"
+  },
+  "org_name": "Hotel SPG Grand Banquets",
+  "location": "karmanghat, Hyderabad",
+  "max_capacity": 700,
+  "rating": "3",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 450,
+    "non_veg": 500
+  },
+  "contact": "8956738755",
+  "rent": "90,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "No",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 3
+    },
+    "parkingSpace": {
+      "bikeParking": 100,
+      "carParking": 50,
+      "valetParkingAvailable": "No"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+},
+{
+  "_id": {
+    "$oid": "645786399149e29afec225a1"
+  },
+  "org_name": "Papadams Blue",
+  "location": "Kothapet, Hyderabad",
+  "max_capacity": 700,
+  "rating": "3",
+  "Booked_on": "",
+  "food_cost": {
+    "veg": 350,
+    "non_veg": 450
+  },
+  "contact": "7656738799",
+  "rent": "1.00,000",
+  "venueInfo": {
+    "airConditioning": "Yes",
+    "cuisinesAllowed": "Veg & Non Veg",
+    "djPolicy": "Outside DJ allowed",
+    "alcoholPolicy": "Alcohol consumption is allowed but Outside Alcohol not allowed",
+    "outsideDecorationAllowed": "Yes",
+    "roomsAvailable": {
+      "guestRooms": 5,
+      "acRooms": 5
+    },
+    "parkingSpace": {
+      "bikeParking": 20,
+      "carParking": 50,
+      "valetParkingAvailable": "Yes"
+    }
+  },
+  "img": [
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/328/873/new_large/ss20230327-4312-13ajrfj.png?1679923180"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/890/new_large/Sri_Palani_Conventions_5.JPG?1671774886"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/048/new_large/ss20230327-20300-rq9m2t.jpg?1679923198"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/006/329/089/new_large/ss20230327-4312-dk1x43.jpeg?1679923202"
+    },
+    {
+      "img": "https://img.weddingbazaar.com/shaadisaga_production/photos/pictures/005/625/893/new_large/Sri_Palani_Conventions_3.JPG?1671774887"
+    }
+  ],
+  "interestedUsers": []
+}]

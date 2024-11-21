@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cinzel+Decorative:wght@700&family=Rubik+Wet+Paint&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fontc{
+    font-family: 'cinzel decorative';
+}
